@@ -1,3 +1,4 @@
+#照片去背
 from rembg import remove
 from PIL import Image
 import cv2
